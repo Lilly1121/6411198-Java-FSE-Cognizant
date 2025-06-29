@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "Week_2/Code/Week_2 JunitTesting/Exercise 1_Setting Up JUnit/src/main/java",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/7 FinancialForecasting",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/6 LibraryManagementSystem",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/5 Task Management System",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/4 EmployeeManagementSystem",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/3 SortingCustomerOrders",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/2 E-commercePlatformSearchFunction",
+        "Week_1/Code/Week 1_Algorithms_Data Structures/1 InventoryManagementSystem",
+        "Week_2/Code/Week_2 JunitTesting/src/main/java/com/example"
+    ]
+}
