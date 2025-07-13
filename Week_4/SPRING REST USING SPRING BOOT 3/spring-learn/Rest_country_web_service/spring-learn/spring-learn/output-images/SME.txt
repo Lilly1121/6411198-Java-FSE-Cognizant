@@ -1,0 +1,19 @@
+ 1. What happens in the controller method?
+  getCountryIndia() method:
+
+Loads Spring context from XML file
+
+Retrieves bean country (of type Country)
+
+Returns the bean object
+
+Logs start and end of method using SLF4J
+
+2.How is the bean converted to JSON?
+Spring Boot automatically uses Jackson (dependency from spring-boot-starter-web) to:
+
+Convert any POJO (Country) returned by a @RestController method
+
+Serialize it into JSON format
+
+No need to write explicit serialization logic
