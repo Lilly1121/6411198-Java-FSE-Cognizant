@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+HEAD
 <greeting>Hello from main branch</greeting>
-=======
 <greeting>Hello from GitWork branch</greeting>
 <note>This is GitWork's update</note>
->>>>>>> GitWork
+ GitWork
